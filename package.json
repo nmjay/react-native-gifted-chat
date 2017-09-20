@@ -43,7 +43,7 @@
     "react-native-communications": "2.2.1",
     "react-native-invertible-scroll-view": "1.1.0",
     "react-native-lightbox": "0.7.0",
-    "react-native-parsed-text": "0.0.18",
+    "react-native-parsed-text": "https://github.com/nmjay/react-native-parsed-text.git",
     "shallowequal": "1.0.2",
     "uuid": "3.1.0"
   }
